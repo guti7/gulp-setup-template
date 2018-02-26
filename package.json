@@ -1,9 +1,12 @@
 {
   "name": "gulp-setup-tutorial",
   "version": "1.0.0",
-  "description": "Set up gulp with common tasks",
+  "description": "Set up gulp template with common tasks for front end.",
   "main": "gulpfile.js",
-  "repository": "https://github.com/guti7/gulp-setup-tutorial.git",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/guti7/gulp-setup-template"
+  },
   "dependencies": {},
   "devDependencies": {
     "gulp": "^3.9.1",
