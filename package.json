@@ -1,0 +1,29 @@
+{
+  "name": "gulp-setup-tutorial",
+  "version": "1.0.0",
+  "description": "Set up gulp with common tasks",
+  "main": "gulpfile.js",
+  "repository": "https://github.com/guti7/gulp-setup-tutorial.git",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-if": "^2.0.2",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-streamify": "^1.0.2",
+    "gulp-uglify": "^3.0.0"
+  },
+  "keywords": [
+    "test",
+    "gulp",
+    "setup",
+    "tutorial",
+    "workflow",
+    "frontend"
+  ],
+  "author": "guti7",
+  "license": "MIT"
+}
